@@ -17,6 +17,9 @@ const App = () => {
         <Pricing />
         <Testimonials />
         <Footer />
+        <h1>
+          hello world
+        </h1>
       </div>
     </>
   );
